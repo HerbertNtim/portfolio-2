@@ -5,6 +5,7 @@ import RecentProjects from '@/components/RecentProjects'
 import { FloatingNav } from '@/components/ui/FloatingNavbar'
 import { navItems } from '@/data'
 import Experience from '@/components/Experience'
+import Approach from '@/components/Approach'
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
         <Grid />
         <RecentProjects />
         <Experience />
+        <Approach />
       </div>
     </main>
   )
