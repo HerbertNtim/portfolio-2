@@ -4,10 +4,12 @@
     "Bento",
     "clsx",
     "drei",
+    "extralight",
     "Kwame",
     "nextui",
     "Ntim",
     "Nuxt",
-    "tailwindcss"
+    "tailwindcss",
+    "zustand"
   ]
 }
