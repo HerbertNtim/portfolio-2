@@ -17,7 +17,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "I learnt web development and application during my 4 year journey",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -48,7 +48,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently looking for a remote role",
+    title: "Currently looking for a role as full stack developer + AWS",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
