@@ -7,7 +7,6 @@ import { navItems } from '@/data'
 import Experience from '@/components/Experience'
 import Approach from '@/components/Approach'
 import Footer from '@/components/Footer'
-import Testimonial from '@/components/Testimonial'
 
 const Home = () => {
   return (
@@ -19,7 +18,6 @@ const Home = () => {
         <RecentProjects />
         <Experience />
         <Approach />
-        <Testimonial />
         <Footer />
       </div>
     </main>
